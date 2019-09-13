@@ -4,3 +4,4 @@ messy = "t.st1.Time"
 for char in messy:
     print(char+ " " +str(char.isalnum()))
     print(char+ " " +str(char.isalpha()))
+    
